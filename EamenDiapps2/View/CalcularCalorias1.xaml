@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="EamenDiapps2.View.CalcularCalorias1">
+    <StackLayout>
+        <Frame BackgroundColor="#2196F3" Padding="24" CornerRadius="0">
+            <Label Text="Calcular calorías" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+        </Frame>
+        <Label Text="Duración de minutos"></Label>
+        <Entry Placeholder="Ingresa la duración en minutos" Keyboard="Numeric" Text="{Binding Duracion}" ></Entry>
+
+        <Label Text="Peso"></Label>
+        <Entry Placeholder="Ingrese su peso" Keyboard="Numeric" Text="{Binding Peso}" ></Entry>
+
+        <Label Text="Resultado"></Label>
+        <Entry Placeholder="Resultado" IsEnabled="False" Text="{Binding Resultado}"></Entry>
+        
+        <Button Text="Calcular Calorías" Command="{ Binding CalcularCaloriascomand}"></Button>
+
+        <Image Source="gorda.jpg" HeightRequest="180" IsVisible="{Binding MostrarGordo}"></Image>
+        <Image Source="normal.jpg" HeightRequest="180" IsVisible="{Binding MostrarNormal}"></Image>
+        <Image Source="fitofuerte.jpg" HeightRequest="180" IsVisible="{Binding MostrarFitoFuerte}"></Image>
+    </StackLayout>
+
+</ContentPage>

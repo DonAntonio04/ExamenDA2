@@ -1,0 +1,16 @@
+C:\Users\cd18\source\repos\EamenDiapps2\EamenDiapps2\bin\Debug\netstandard2.0\EamenDiapps2.deps.json
+C:\Users\cd18\source\repos\EamenDiapps2\EamenDiapps2\bin\Debug\netstandard2.0\EamenDiapps2.dll
+C:\Users\cd18\source\repos\EamenDiapps2\EamenDiapps2\bin\Debug\netstandard2.0\EamenDiapps2.pdb
+C:\Users\cd18\source\repos\EamenDiapps2\EamenDiapps2\obj\Debug\netstandard2.0\EamenDiapps2.csproj.AssemblyReference.cache
+C:\Users\cd18\source\repos\EamenDiapps2\EamenDiapps2\obj\Debug\netstandard2.0\EamenDiapps2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cd18\source\repos\EamenDiapps2\EamenDiapps2\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\cd18\source\repos\EamenDiapps2\EamenDiapps2\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\cd18\source\repos\EamenDiapps2\EamenDiapps2\obj\Debug\netstandard2.0\View\CalcularCalorias1.xaml.g.cs
+C:\Users\cd18\source\repos\EamenDiapps2\EamenDiapps2\obj\Debug\netstandard2.0\EamenDiapps2.AssemblyInfoInputs.cache
+C:\Users\cd18\source\repos\EamenDiapps2\EamenDiapps2\obj\Debug\netstandard2.0\EamenDiapps2.AssemblyInfo.cs
+C:\Users\cd18\source\repos\EamenDiapps2\EamenDiapps2\obj\Debug\netstandard2.0\EamenDiapps2.csproj.CoreCompileInputs.cache
+C:\Users\cd18\source\repos\EamenDiapps2\EamenDiapps2\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\cd18\source\repos\EamenDiapps2\EamenDiapps2\obj\Debug\netstandard2.0\EamenDiapps2.dll
+C:\Users\cd18\source\repos\EamenDiapps2\EamenDiapps2\obj\Debug\netstandard2.0\refint\EamenDiapps2.dll
+C:\Users\cd18\source\repos\EamenDiapps2\EamenDiapps2\obj\Debug\netstandard2.0\EamenDiapps2.pdb
+C:\Users\cd18\source\repos\EamenDiapps2\EamenDiapps2\obj\Debug\netstandard2.0\ref\EamenDiapps2.dll
